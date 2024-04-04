@@ -318,6 +318,7 @@ class Agent:
 
         self.invalid_vision_left = False
         self.invalid_vision_up = False
+        
         self.invalid_vision_down = False
         self.invalid_vision_right = False
 
